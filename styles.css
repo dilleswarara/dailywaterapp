@@ -1,0 +1,17 @@
+body {
+    background-color: #f7f9fc;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #007bff;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .progress-bar {
+    transition: width 0.5s ease-in-out;
+  }
+  
